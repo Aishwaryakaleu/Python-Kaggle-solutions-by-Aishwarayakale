@@ -1,0 +1,13 @@
+********************** to find the AREA OF CIRCLE************************
+class circle():
+    def check(self):
+        pi = 3.14159
+        diameter = 3
+        radious = diameter/2
+        areaofcircle = pi * radious**2
+        print("areaofcircle")
+        
+        
+        
+q1 = circle()
+q1.check()
