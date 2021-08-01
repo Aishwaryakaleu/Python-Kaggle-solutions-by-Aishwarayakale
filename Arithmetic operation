@@ -11,3 +11,13 @@ class circle():
         
 q1 = circle()
 q1.check()
+
+
+
+
+------------------------------------
+just the kaggle logic
+-----------------------------------
+radius = diameter/2 
+area = pi * radius ** 2
+print(area)
