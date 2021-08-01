@@ -9,3 +9,11 @@ class candy:
         
 q4 = candy()
 q4.check()
+
+
+
+-----------------------------------
+just the kaggle logic
+-----------------------------------
+to_smash = (alice_candies + bob_candies + carol_candies) % 3
+print(to_smash)
